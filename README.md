@@ -1,11 +1,28 @@
 # self-driving-car-stories
 This is my secret notebook which helps me to track my progress on writing SDC, AI-related master's thesis.
 
-# Mind map
-
+## Mind map
 
 ![](images/mindmap.png)
 
+## Progress
+
+1. Build AirSim on Linux, control the car remotely via ssh (31.10.2018)
+	- build UnrealEngine 4.18 and Microsoft/AirSim
+	- customize example Unreal project
+	- set up ssh connection with proxy jump and remote port forwarding
+	- run bare-bones `airsim` python script to control the car and images from camera
+	- [demo video](https://drive.google.com/file/d/1jrG0tF3Q46QNrw3CcDA4_jF6YP4jAxZw/view?usp=sharing)
+		
+		
+		
+	
+	
+
+# Setup
+
+
+# ...
 Visualization: https://tobloef.com/text2mindmap/
 ```
 Thesis
@@ -38,11 +55,3 @@ Thesis
 		4. Write table of contents sketch
 		5. Write abstract with goal(s) description and current SDC state
 ```
-		
-		
-		
-		
-	
-	
-
-# Setup
