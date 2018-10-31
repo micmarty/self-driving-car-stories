@@ -8,21 +8,20 @@ This is my secret notebook which helps me to track my progress on writing SDC, A
 ## Progress
 
 1. Build AirSim on Linux, control the car remotely via ssh (31.10.2018)
+![](https://media.giphy.com/media/2tRoKjX4R0ZEs5xkpr/giphy.gif)
 	- build UnrealEngine 4.18 and Microsoft/AirSim
 	- customize example Unreal project
 	- set up ssh connection with proxy jump and remote port forwarding
-	- run bare-bones `airsim` python script to control the car and images from camera
-	- [demo video](https://drive.google.com/file/d/1jrG0tF3Q46QNrw3CcDA4_jF6YP4jAxZw/view?usp=sharing)
-		
+	- run bare-bones `airsim` python script to control the car and capture images from camera
+	- [full demo video](https://drive.google.com/file/d/1jrG0tF3Q46QNrw3CcDA4_jF6YP4jAxZw/view?usp=sharing)
+
+
+
 		
 		
 	
 	
-
-# Setup
-
-
-# ...
+## TODO
 Visualization: https://tobloef.com/text2mindmap/
 ```
 Thesis
