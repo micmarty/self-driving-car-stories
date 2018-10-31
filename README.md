@@ -2,9 +2,11 @@
 This is my secret notebook which helps me to track my progress on writing SDC, AI-related master's thesis.
 
 # Mind map
-(https://tobloef.com/text2mindmap/)
 
 
+![](images/mindmap.png)
+
+Visualization: https://tobloef.com/text2mindmap/
 ```
 Thesis
 	Simulators and environments
