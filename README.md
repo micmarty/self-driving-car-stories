@@ -19,7 +19,14 @@ This is my secret notebook which helps me to track my progress on writing SDC, A
 
 		
 		
-	
+# Useful commands
+```
+# Carla 0.9 from jenkins
+
+# Save movie frames as pnf files to <...>/CarlaUE4/Saved/Screenshots/LinuxNoEditor/MovieFrame<...>.png
+./CarlaUE4.sh -benchmark -fps=30 -dumpmovie
+./CarlaUE4 -benchmark -fps=30 -dumpmovie
+```
 	
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
@@ -30,7 +37,7 @@ Thesis
 		Udacity v2
 		Carla sim
 		Microsoft/AirSim
-		DeepDrive
+		Deepdrive
 		F1 2015 (telemetry)
 		Dirt 3 (telemetry)
 		Euro Truck Simulator 2
