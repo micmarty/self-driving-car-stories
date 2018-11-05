@@ -29,6 +29,9 @@ This is my secret notebook which helps me to track my progress on writing SDC, A
 ```
 About VNC + VGL
 https://github.com/CDAT/cdat/wiki/Remote-server-setup-for-VNC
+
+Virtual Displays
+https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639
 	
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
