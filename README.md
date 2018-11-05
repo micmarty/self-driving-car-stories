@@ -27,6 +27,8 @@ This is my secret notebook which helps me to track my progress on writing SDC, A
 ./CarlaUE4.sh -benchmark -fps=30 -dumpmovie
 ./CarlaUE4 -benchmark -fps=30 -dumpmovie
 ```
+About VNC + VGL
+https://github.com/CDAT/cdat/wiki/Remote-server-setup-for-VNC
 	
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
