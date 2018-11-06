@@ -36,6 +36,9 @@ https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monit
 Nervana Coach alg descriptions:
 https://nervanasystems.github.io/coach/algorithms/policy_optimization/ddpg/
 	
+Unity ML-agents student-teacher (imitation learning)
+https://blogs.unity3d.com/2018/05/24/imitation-learning-in-unity-the-workflow/
+
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
 ```
