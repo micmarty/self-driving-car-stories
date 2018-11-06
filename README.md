@@ -32,6 +32,9 @@ https://github.com/CDAT/cdat/wiki/Remote-server-setup-for-VNC
 
 Virtual Displays
 https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639
+
+Nervana Coach alg descriptions:
+https://nervanasystems.github.io/coach/algorithms/policy_optimization/ddpg/
 	
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
