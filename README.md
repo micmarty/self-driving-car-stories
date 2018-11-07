@@ -45,6 +45,9 @@ http://www.dcsc.tudelft.nl/~jalonsomora/docs/17-andersen-ITSC.pdf
 Policy algorithms explained with math:
 https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 
+DDPG explained:
+https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
+
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
 ```
