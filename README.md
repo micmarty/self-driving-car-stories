@@ -48,6 +48,10 @@ https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 DDPG explained:
 https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
 
+
+Amazon AWS Autonomous manouvers with RL + demo videos
+https://www.youtube.com/watch?v=UqoWv4IWkRc
+
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
 ```
