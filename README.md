@@ -39,6 +39,9 @@ https://nervanasystems.github.io/coach/algorithms/policy_optimization/ddpg/
 Unity ML-agents student-teacher (imitation learning)
 https://blogs.unity3d.com/2018/05/24/imitation-learning-in-unity-the-workflow/
 
+Overtaking in ROS:
+http://www.dcsc.tudelft.nl/~jalonsomora/docs/17-andersen-ITSC.pdf
+
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
 ```
