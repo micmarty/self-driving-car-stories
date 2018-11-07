@@ -85,3 +85,29 @@ Thesis
 		4. Write table of contents sketch
 		5. Write abstract with goal(s) description and current SDC state
 ```
+
+
+### Quickfixes
+Deepdrive 2.1
+
+- pyarrow unable to serialize object of class CaptureLastCollision -> replace with empty dict
+`api/server/py`
+```python
+elif method == m.REWARD_RANGE:
+                    resp = self.env.reward_range
+                    print('REWA ----------------------------------------')
+                elif method == m.METADATA:
+                    resp = self.env.metadata
+                    print('META ----------------------------------------')
+                else:
+                    log.error('Invalid API method')
+                import json
+                
+                if resp is not None and resp[0] is not None:
+                    resp[0]['last_collision'] = dict()
+                print('---------------------------------------')
+                print('111111111111111111', resp)
+                print(type(resp))
+                self.socket.send(pyarrow.serialize(resp).to_buffer())
+```
+
