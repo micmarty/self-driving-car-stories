@@ -42,6 +42,9 @@ https://blogs.unity3d.com/2018/05/24/imitation-learning-in-unity-the-workflow/
 Overtaking in ROS:
 http://www.dcsc.tudelft.nl/~jalonsomora/docs/17-andersen-ITSC.pdf
 
+Policy algorithms explained with math:
+https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
+
 ## TODO
 Visualization: https://tobloef.com/text2mindmap/
 ```
